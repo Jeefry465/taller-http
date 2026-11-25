@@ -1,0 +1,13 @@
+{
+  "name": "taller-http-cors-envios",
+  "version": "1.0.0",
+  "description": "Servicio de consulta de envíos con Express, CORS y validación de header X-Red-Equipo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
